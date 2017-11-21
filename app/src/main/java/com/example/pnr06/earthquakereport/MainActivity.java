@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
         earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
         earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
         earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
-        earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
+        earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
+        earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
         earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
         earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
         earthquakeDataObjectArrayList.add(new EarthquakeDataObject("5.2", "Spain", "12-06-1981 12:20 pm"));
